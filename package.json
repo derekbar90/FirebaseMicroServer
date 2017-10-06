@@ -1,0 +1,16 @@
+{
+  "name": "firebasemicroserver",
+  "version": "1.0.0",
+  "description": "Firebase Client for the Stan of Things",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derek Barrera <me@derekbarrera.com> (derekbarrera.com)",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^4.5.0",
+    "firebase-admin": "^5.4.1"
+  }
+}
